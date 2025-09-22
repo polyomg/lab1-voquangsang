@@ -1,4 +1,4 @@
-package demo;
+package poly.edu.lab1;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

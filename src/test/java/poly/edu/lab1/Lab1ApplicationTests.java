@@ -1,4 +1,4 @@
-package demo;
+package poly.edu.lab1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
